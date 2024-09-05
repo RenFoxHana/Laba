@@ -28,7 +28,7 @@ classDiagram
 <form action="add_comment.php" method="POST">
   <br><br>
   <label>Комментарий:</label><br>
-  <textarea name="comment"rows="5"required></textarea>
+  <textarea name="comment" rows="5" required></textarea>
 
   <input type="submit" value="Отправить комментарий">
 </form>
